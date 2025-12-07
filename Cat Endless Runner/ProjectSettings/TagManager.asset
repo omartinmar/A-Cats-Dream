@@ -6,6 +6,13 @@ TagManager:
   tags:
   - Ground
   - Wall
+  - WaterTide
+  - WinLine
+  - Audio
+  - Traps
+  - Enemies
+  - Claws
+  - Platform
   layers:
   - Default
   - TransparentFX
@@ -18,9 +25,9 @@ TagManager:
   - Background
   - WaterTide
   - Ceiling
-  - 
-  - 
-  - 
+  - Traps
+  - Enemies
+  - Decoration
   - 
   - 
   - 
