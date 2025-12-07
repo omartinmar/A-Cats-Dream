@@ -115,7 +115,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: TopLeft_1
+      name: BotCenter_1
       rect:
         serializedVersion: 2
         x: 240
@@ -137,7 +137,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TopLeft_2
+      name: BotCenter_2
       rect:
         serializedVersion: 2
         x: 208
@@ -159,7 +159,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TopLeft_3
+      name: BotCenter_3
       rect:
         serializedVersion: 2
         x: 176
@@ -181,7 +181,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TopLeft_4
+      name: BotCenter_4
       rect:
         serializedVersion: 2
         x: 144
@@ -203,7 +203,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TopCenter_1
+      name: TopCenter_4
       rect:
         serializedVersion: 2
         x: 144
@@ -225,7 +225,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TopCenter_2
+      name: TopCenter_3
       rect:
         serializedVersion: 2
         x: 176
@@ -247,7 +247,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TopCenter_3
+      name: TopCenter_2
       rect:
         serializedVersion: 2
         x: 208
@@ -269,7 +269,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TopCenter_4
+      name: TopCenter_1
       rect:
         serializedVersion: 2
         x: 240
@@ -304,14 +304,15 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      TopCenter_1: -720184611
-      TopCenter_2: -1904575893
-      TopCenter_3: -1851299498
-      TopCenter_4: -178360709
-      TopLeft_1: 5946367934953152851
-      TopLeft_2: -8291900968537172778
-      TopLeft_3: -6042722589125161036
-      TopLeft_4: -2308684219355939610
+      3: -1851299498
+      BotCenter_1: 5946367934953152851
+      BotCenter_2: -8291900968537172778
+      BotCenter_3: -6042722589125161036
+      BotCenter_4: -2308684219355939610
+      TopCenter_1: -178360709
+      TopCenter_2: -1851299498
+      TopCenter_3: -1904575893
+      TopCenter_4: -720184611
       TopRight_1: 655339739
       TopRight_2: 489616637
       TopRight_3: 1195011161
